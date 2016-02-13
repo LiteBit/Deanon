@@ -1,9 +1,9 @@
 # Deanon
 Run this code to de-anonymize sdc ring sigs 2014-Feb 2016
 This corresponds to the blog post https://shnoe.wordpress.com/2016/02/11/de-anonymizing-shadowcash-and-oz-coin/ 
-(Replace the ringsig.cpp when you clone shadowcoin, and then resync the chain, it will output things like:
+(Replace the ringsig.cpp when you clone shadowcoin, and then resync the chain, it will output things like below 
 when you read the debug.log in your .shadowcoin directory). 
-Disclaimer, I
+
 
 SetBestChain: new best=a801e125053dcc556b94  height=257036  trust=1083878123844045
 SetBestChain: new best=a801e125053dcc556b94  height=257036  trust=1083878123844045
